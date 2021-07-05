@@ -29,7 +29,7 @@ education:
   - course: Master in International Affairs
     institution: Institut d'Études Politiques de Paris
     year: 2014
-     - course: Bachelors in Economics
+  - course: Bachelors in Economics
     institution: University College London
     year: 2012
 
