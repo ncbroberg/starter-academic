@@ -61,4 +61,4 @@ highlight_name: false
 
 I am a PhD candidate in Economics at the European University Institute, working under the supervision of Andrea Ichino and Andrea Mattozzi. I am interested in empirical political economy and public economics.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
