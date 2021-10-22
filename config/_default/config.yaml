@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Nikolaj Broberg # Website name
-baseurl: "https://www.nikolajbroberg.com" # Website URL
+baseurl= 'https://www.nikolajbroberg.com' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
