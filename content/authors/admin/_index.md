@@ -62,7 +62,9 @@ email: "nikolaj.broberg@eui.eu"
 highlight_name: false
 ---
 
-I am a PhD candidate in Economics at the European University Institute (EUI), working under the supervision of Andrea Ichino and Andrea Mattozzi. I am also Research Associate at the Migration Policy Centre within the Robert Schuman Centre at the EUI. 
+I am a PhD candidate in Economics at the European University Institute (EUI), working under the supervision of Andrea Ichino and Andrea Mattozzi. 
+
+I am also Research Associate at the Migration Policy Centre within the Robert Schuman Centre at the EUI. 
 
 I am interested in applied microeconometrics, political economy, migration, labour and public economics.
 
