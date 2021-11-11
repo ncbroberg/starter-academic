@@ -24,7 +24,7 @@ education:
     institution: European University Institute
     year: (expected 2022)
   - course: Master in Economics
-    institution: Barcelona School of Economics
+    institution: Barcelona Graduate School of Economics
     year: 2015
   - course: Master in International Affairs
     institution: Institut d'Études Politiques de Paris
@@ -51,9 +51,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-#  - icon: cv
- #   icon_pack: ai
-  #   link: uploads/CV.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "nikolaj.broberg@eui.eu"
@@ -62,9 +62,9 @@ email: "nikolaj.broberg@eui.eu"
 highlight_name: false
 ---
 
-I am a PhD candidate in Economics at the European University Institute (EUI), working under the supervision of Andrea Ichino and Andrea Mattozzi. 
+I am a PhD candidate in Economics at the European University Institute (EUI), working under the supervision of Andrea Ichino and Andrea Mattozzi.
 
-I am also RA at the Migration Policy Centre within the Robert Schuman Centre at the EUI. 
+I am also Research Associate at the Migration Policy Centre within the Robert Schuman Centre at the EUI.
 
 My research interests include applied microeconometrics, political economy, migration, labour, and public economics.
 
