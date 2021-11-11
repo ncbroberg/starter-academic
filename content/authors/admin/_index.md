@@ -62,5 +62,5 @@ email: "nikolaj.broberg@eui.eu"
 highlight_name: false
 ---
 
-I am a PhD candidate in Economics at the European University Institute, working under the supervision of Andrea Ichino and Andrea Mattozzi. I am interested in empirical political economy and public economics.
+I am a PhD candidate in Economics at the European University Institute, working under the supervision of Andrea Ichino and Andrea Mattozzi. I am interested in empirical political economy and public economics.i
 
