@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nikolaj Broberg
+title: Nikolaji Broberg
 
 # Is this the primary user of the site?
 superuser: true
