@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nikolaji Broberg
+title: Nikolaj Broberg
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,7 +24,7 @@ education:
     institution: European University Institute
     year: (expected 2022)
   - course: Master in Economics
-    institution: Barcelona Graduate School of Economics
+    institution: Barcelona School of Economics
     year: 2015
   - course: Master in International Affairs
     institution: Institut d'Études Politiques de Paris
