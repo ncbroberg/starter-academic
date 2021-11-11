@@ -11,7 +11,7 @@ main:
     url: '#posts'
     weight: 20
     - name: CV
-     url: "static/uploads/CV.pdf"
+     url: '#CV.pdf'
     weight: 70
 
 
