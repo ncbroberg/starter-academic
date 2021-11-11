@@ -15,6 +15,7 @@ main:
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: "CV"
- #  url: "uploads/Nikolaj BROBERG_cv_academic_June.pdf"
- #  weight: 70
+[[main]]
+    name = "CV"
+    url = "files/CV.pdf"
+    weight = 70
