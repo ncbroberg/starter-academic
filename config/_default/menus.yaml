@@ -11,8 +11,8 @@ main:
     url: '#posts'
     weight: 20
     - name: CV
-     url: '#files/CV.pdf'
-    weight: 30
+     url: url: "uploads/CV.pdf"
+    weight: 70
 
 
 # Link to a PDF of your resume/CV from the menu.
