@@ -7,12 +7,12 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Research
+  - name: Researchi
     url: '#posts'
     weight: 20
     - name: CV
-    url: 'files/CV.pdf'
-     weight: 20
+     url: 'files/CV.pdf'
+    weight: 20
 
 
 # Link to a PDF of your resume/CV from the menu.
