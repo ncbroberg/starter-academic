@@ -18,7 +18,7 @@ featured: true
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Conditional
+publication: Political Science Research and Methods (Conditionally Accepted)
 publication_short: 
 
 abstract: Research has shown that first-time voting experiences affect subsequent voting behavior with salient elections boosting subsequent turnout and non-salient ones suppressing it. We challenge this view. Following research on the context-dependent nature of habit formation, we argue that all elections should affect subsequent turnout in elections of the same type. Comparing individuals that differ only in how salient their first eligible election was (Presidential or Midterm), we find support for this expectation. Individuals are more likely to vote for, and be interested in, elections of the same type as their first voting experience. Leveraging voting age laws in the US, we also show that such laws affect subsequent participation by changing the type of election individuals are first eligible for.
@@ -31,8 +31,8 @@ tags:
 
 
 links: 
-- name: Link to paper
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3466515
+- name: 
+  url: 
 url_pdf: 
 url_code: ''
 url_dataset: ''
