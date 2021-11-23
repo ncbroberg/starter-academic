@@ -1,9 +1,12 @@
 ---
-title: "Central Bank Communication with the General Public: Survey Evidence from Germany"
+title: "Early Voting Experiences and Habit Formation"
 authors: 
+- Elias Dinas
+- Vicente Valentim
 - admin
+- Mark Franklin
 date: "2021-11-01T00:00:00Z"
-doi: ""
+doi: "http://dx.doi.org/10.2139/ssrn.3466515"
 featured: true
 
 # Schedule page publish date (NOT publication's date).
@@ -15,21 +18,21 @@ featured: true
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: 
+publication: Conditional
 publication_short: 
 
-abstract: This paper studies the effect of different types of monetary policy announcements on household inflation expectations based on micro data from a survey of German households. As unique feature, interviews of the survey were conducted both shortly before and after monetary policy events. This timing provides a natural experiment to identify the immediate effects of policy announcements on household inflation expectations. In contrast to most existing studies, the availability of the survey over a period of 15 years also allows me to exploit the time-series dimension to estimate how policy announcements affect household inflation expectations over the medium-term. I find that policy rate announcements lead to quick and significant adjustments in household inflation expectations with the effect peaking after half a year. Announcements about forward guidance and quantitative easing, on the other hand, have only small and delayed effects. My results suggest that monetary policy announcements can influence household expectations but further improvements in communication seem to be necessary to reach the general public more effectively. In particular, in an environment where policy rates are constrained by the effective lower bound, it may be very hard for central banks to influence household expectations. 
+abstract: Research has shown that first-time voting experiences affect subsequent voting behavior with salient elections boosting subsequent turnout and non-salient ones suppressing it. We challenge this view. Following research on the context-dependent nature of habit formation, we argue that all elections should affect subsequent turnout in elections of the same type. Comparing individuals that differ only in how salient their first eligible election was (Presidential or Midterm), we find support for this expectation. Individuals are more likely to vote for, and be interested in, elections of the same type as their first voting experience. Leveraging voting age laws in the US, we also show that such laws affect subsequent participation by changing the type of election individuals are first eligible for.
 
 
 # Summary. An optional shortened abstract.
-summary: This paper studies the effect of different types of monetary policy announcements on household inflation expectations based on micro data from a survey of German households. As unique feature, interviews of the survey were conducted both shortly before and after monetary policy events. This timing provides a natural experiment to identify the immediate effects of policy announcements on household inflation expectations. In contrast to most existing studies, the availability of the survey over a period of 15 years also allows me to exploit the time-series dimension to estimate how policy announcements affect household inflation expectations over the medium-term. I find that policy rate announcements lead to quick and significant adjustments in household inflation expectations with the effect peaking after half a year. Announcements about forward guidance and quantitative easing, on the other hand, have only small and delayed effects. My results suggest that monetary policy announcements can influence household expectations but further improvements in communication seem to be necessary to reach the general public more effectively. In particular, in an environment where policy rates are constrained by the effective lower bound, it may be very hard for central banks to influence household expectations. 
+summary: Research has shown that first-time voting experiences affect subsequent voting behavior with salient elections boosting subsequent turnout and non-salient ones suppressing it. We challenge this view. Following research on the context-dependent nature of habit formation, we argue that all elections should affect subsequent turnout in elections of the same type. Comparing individuals that differ only in how salient their first eligible election was (Presidential or Midterm), we find support for this expectation. Individuals are more likely to vote for, and be interested in, elections of the same type as their first voting experience. Leveraging voting age laws in the US, we also show that such laws affect subsequent participation by changing the type of election individuals are first eligible for.
 
 tags: 
 
 
 links: 
-- name: Draft
-  url: publication/JMP/Rast_JMP.pdf
+- name: Link to paper
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3466515
 url_pdf: 
 url_code: ''
 url_dataset: ''
