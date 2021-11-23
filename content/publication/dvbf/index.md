@@ -6,7 +6,7 @@ authors:
 - admin
 - Mark Franklin
 date: "2021-11-01T00:00:00Z"
-doi: "http://dx.doi.org/10.2139/ssrn.3466515"
+doi: ""
 featured: true
 
 # Schedule page publish date (NOT publication's date).
@@ -31,8 +31,8 @@ tags:
 
 
 links: 
- name: 
-  url: 
+ name: Link to paper
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3466515
 url_pdf: 
 url_code: ''
 url_dataset: ''
