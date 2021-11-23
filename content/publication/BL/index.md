@@ -1,5 +1,5 @@
 ---
-title: "Anchoring long-run inflation expectations in a panel of professional forecasters"
+title: "Migration and Redistributive Spending: Evidence from English Local Authorities"
 authors: 
 - admin
 - Lars Ludolph
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: We use panel data from the US Survey of Professional Forecasters to estimate a model of individual forecaster behavior in an environment where inflation follows a trend-cycle stochastic process. Our model allows us to estimate forecasters' allocation of attention when learning about long-run inflation and how sensitive their long-run expectations are to incoming inflation and news about future inflation. We use our model of individual forecasters to study average long-run inflation expectations. We find that short term changes in inflation have small effects on average expectations. News about future inflation has larger effects but they are still relatively small. These features of our estimated model provide an explanation for why the anchoring and subsequent de-anchoring of average inflation expectations over the period 1991 to 2020 were long lasting episodes. We use our estimated model to investigate the degree of inflation overshooting necessary to re-anchor average long term inflation expectations going forward from 2021Q3. We find the high inflation readings of mid-2021 must be followed by overshooting generally at the high end of Fed projections to re-anchor average inflation expectations to pre-Great Recession levels.
+abstract: The inflow of migrants can impact on public spending through its effect on local preferences for redistribution and through changes in demand for local services brought about by migrants' distinct characteristics. In this paper, we analyse the effects of the migration wave from Central and Eastern European countries following their EU accession in 2004 on local level redistribution in England, specifically disentangling these two channels. We apply a difference-in-differences estimation strategy and find that migrants did not have an effect on local authorities’ total service provision per capita. Once we zoom in on the different expenditure items, we find that local authorities experiencing relatively larger migration inflows saw their spending on means-tested social care services decrease in relative terms, while spending on education services increased. Analysing changes in local Council compositions and internal migration flows in response to the arrival of outsiders, we find no evidence that spending shifts are driven by a change in the local willingness to redistribute income. Rather, our results suggest that, due to migrants’ young age at the time of arrival, migration following the 2004 EU enlargement alleviated some of the pressure social care spending in England faces.
 
 
 # Summary. An optional shortened abstract.
@@ -29,7 +29,7 @@ tags:
 
 
 links: 
-- name: Draft
+- name: Draft available soon
   url:
 url_pdf: 
 url_code: ''
