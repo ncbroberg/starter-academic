@@ -1,9 +1,9 @@
 ---
-title: "Bank and non-bank balance sheet responses to monetary policy shocks"
+title: "The Impact of Campaign Finance Rules on Candidate Selection and Electoral Outcomes: Evidence from France"
 authors:
-- Fédéric Holm-Hadulla
-- Falk Mazelis
 - admin
+- Vincent Pons
+- Clémence Tricaud
 doi: ""
 date: ""
  
