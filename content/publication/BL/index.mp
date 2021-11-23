@@ -30,7 +30,7 @@ tags:
 
 links: 
 - name: Draft
-  url: publication/BL/BL_draft.pdf
+  url:
 url_pdf: 
 url_code: ''
 url_dataset: ''
