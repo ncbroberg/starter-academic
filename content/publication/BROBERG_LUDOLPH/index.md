@@ -29,8 +29,8 @@ tags:
 
 
 links: 
-- name: Draft available soon
-  url:
+- name: WP
+  url: https://cadmus.eui.eu/handle/1814/73099
 url_pdf: 
 url_code: ''
 url_dataset: ''
