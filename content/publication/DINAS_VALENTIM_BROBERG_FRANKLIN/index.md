@@ -31,7 +31,7 @@ tags:
 
 
 links: 
-- name: Link to paper
+- name: Link to WP
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3466515
 url_pdf: 
 url_code: ''
