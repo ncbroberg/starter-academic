@@ -29,7 +29,7 @@ tags:
 
 
 links: 
-- name: Link to WP
+- name: Link to working paper
   url: https://cadmus.eui.eu/handle/1814/73099
 url_pdf: 
 url_code: ''
