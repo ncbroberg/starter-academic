@@ -3,7 +3,7 @@ title: "The Impact of Campaign Finance Rules on Candidate Selection and Electora
 authors:
 - admin
 - Vincent Pons
-- Clémence Tricaud
+- Clemence Tricaud
 doi: ""
 date: ""
  
