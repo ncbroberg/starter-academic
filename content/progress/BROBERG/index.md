@@ -1,5 +1,5 @@
 ---
-title: "An Independent Institution? Political Ideology and Agricultural Transfers at the European Commission"
+title: "A Politically Independent Executive Arm? EU Commissioners' Ideological Alignment and Budget Allocation in the European Union"
 authors:
 - admin
 doi: ""
