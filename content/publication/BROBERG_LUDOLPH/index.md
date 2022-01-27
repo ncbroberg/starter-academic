@@ -1,5 +1,5 @@
 ---
-title: "Migration and Redistributive Spending: Evidence from English Local Authorities"
+title: "Migration and Redistributive Spending: Evidence from Local Authorities in England"
 authors: 
 - admin
 - Lars Ludolph
