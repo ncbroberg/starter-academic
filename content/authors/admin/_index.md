@@ -23,15 +23,7 @@ education:
   - course: PhD in Economics 
     institution: European University Institute
     year: (expected 2022)
-  - course: Master in Economics
-    institution: Barcelona School of Economics
-    year: 2015
-  - course: Master in International Affairs
-    institution: Institut d'Études Politiques de Paris
-    year: 2014
-  - course: Bachelors in Economics
-    institution: University College London
-    year: 2012
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
