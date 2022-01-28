@@ -18,11 +18,11 @@ bio: I am interested in empirical political economy and public economics.
 
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Economics 
-    institution: European University Institute
-    year: (expected 2022)
+#education:
+# courses:
+#  - course: PhD in Economics 
+ #   institution: European University Institute
+ #   year: (expected 2022)
 
 
 # Social/Academic Networking
