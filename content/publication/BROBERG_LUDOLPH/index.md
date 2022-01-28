@@ -16,7 +16,7 @@ featured: false
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Migration Policy Centre Working Paper
+publication: 
 publication_short: 
 
 abstract: The inflow of migrants can impact on public spending through its effect on local preferences for redistribution and through changes in demand for local services brought about by migrants' distinct characteristics. In this paper, we analyse the effects of the migration wave from Central and Eastern European countries following their EU accession in 2004 on local level redistribution in England, specifically disentangling these two channels. We apply a difference-in-differences estimation strategy and find that migrants did not have an effect on local authorities’ total service provision per capita. Once we zoom in on the different expenditure items, we find that local authorities experiencing relatively larger migration inflows saw their spending on means-tested social care services decrease in relative terms, while spending on education services increased. Analysing changes in local Council compositions and internal migration flows in response to the arrival of outsiders, we find no evidence that spending shifts are driven by a change in the local willingness to redistribute income. Rather, our results suggest that, due to migrants’ young age at the time of arrival, migration following the 2004 EU enlargement alleviated some of the pressure social care spending in England faces.
