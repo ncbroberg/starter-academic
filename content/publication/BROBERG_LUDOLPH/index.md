@@ -29,7 +29,7 @@ tags:
 
 
 links: 
-- name: Link to working paper (new version coming sooon)
+- name: Link to working paper (new version coming soon)
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3972303
 url_pdf: 
 url_code: ''
