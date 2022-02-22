@@ -29,8 +29,8 @@ tags:
 
 
 links: 
-- name: Draft
-  url: https://cadmus.eui.eu/bitstream/handle/1814/73099/RSC%202021_86.pdf?sequence=1
+- name: Link to working paper (new version coming sooon)
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3972303
 url_pdf: 
 url_code: ''
 url_dataset: ''
