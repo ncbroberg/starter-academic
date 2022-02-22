@@ -29,7 +29,7 @@ tags:
 
 
 links: 
-- name: Link to working paper
+- name: Draft
   url: https://cadmus.eui.eu/bitstream/handle/1814/73099/RSC%202021_86.pdf?sequence=1
 url_pdf: 
 url_code: ''
