@@ -1,8 +1,9 @@
 ---
-title: "Migration and Redistributive Spending: Evidence from Local Authorities in England"
+title: "The Impact of Campaign Finance  Rules on Candidate Selection and Electoral Outcomes: Evidence from France"
 authors: 
 - admin
-- Lars Ludolph
+- Vincent Pons
+- Clemence Tricaud
 date: "2021-11-01T00:00:00Z"
 doi: ""
 featured: false
@@ -16,10 +17,10 @@ featured: false
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Robert Schuman Centre for Advanced Studies Research Paper No. RSC 2021/86
+publication: 
 publication_short: 
 
-abstract: The inflow of migrants can impact on public spending through its effect on local preferences for redistribution and through changes in demand for local services brought about by migrants' distinct characteristics. In this paper, we analyse the effects of the migration wave from Central and Eastern European countries following their EU accession in 2004 on local level redistribution in England, specifically disentangling these two channels. We apply a difference-in-differences estimation strategy and find that migrants did not have an effect on local authorities’ total service provision per capita. Once we zoom in on the different expenditure items, we find that local authorities experiencing relatively larger migration inflows saw their spending on means-tested social care services decrease in relative terms, while spending on education services increased. Analysing changes in local Council compositions and internal migration flows in response to the arrival of outsiders, we find no evidence that spending shifts are driven by a change in the local willingness to redistribute income. Rather, our results suggest that, due to migrants’ young age at the time of arrival, migration following the 2004 EU enlargement alleviated some of the pressure social care spending in England faces.
+abstract: This paper investigates the effects of campaign finance rules on electoral outcomes. In French departmental and municipal elections, candidates competing in districts above 9,000 inhabitants face spending limits and are eligible for public reimbursement if they obtain more than five percent of the votes. Using an RDD around the population threshold, we find that these rules increase competitiveness and benefit the runner-up of the previous race as well as new candidates, in departmental elections, while leaving the polarization and representativeness of the results unaffected. Incumbents are less likely to get reelected because they are less likely to run and obtain a lower vote share, conditional on running. These results appear to be driven by the reimbursement of campaign expenditures, not spending limits. We do not find such effects in municipal elections, which we attribute to the use of a proportional list system instead of plurality voting.
 
 
 # Summary. An optional shortened abstract.
@@ -29,8 +30,8 @@ tags:
 
 
 links: 
-- name: Link to working paper (new version coming soon)
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3972303
+- name: 
+  url: 
 url_pdf: 
 url_code: ''
 url_dataset: ''
