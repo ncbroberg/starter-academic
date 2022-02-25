@@ -1,5 +1,5 @@
 ---
-title: "The Impact of Term Limit Extensions on Local Policy: Evidence from Italy"
+title: "The Impact of Politicians' Horizon in Power on Local Public Policy: Evidence from a Term Limit Extension in Italy"
 authors:
 - admin
 - Pietro Panizza
