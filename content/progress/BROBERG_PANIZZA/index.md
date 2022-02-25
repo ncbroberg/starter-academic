@@ -1,5 +1,5 @@
 ---
-title: "How does longer horizon in power affect policy choices? Evidence from a term limit extension in Italy"
+title: "The Impact of Term Limit Extensions on Local Policy: Evidence from Italy"
 authors:
 - admin
 - Pietro Panizza
