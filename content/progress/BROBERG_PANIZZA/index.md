@@ -1,5 +1,5 @@
 ---
-title: "Term Limits and Accountability: Evidence from Italy"
+title: "How does longer horizon in power affect policy choices? Evidence from a term limit extension in Italy"
 authors:
 - admin
 - Pietro Panizza
