@@ -17,7 +17,7 @@ featured: false
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: 
+publication: NBER Working Paper No. w29805
 publication_short: 
 
 abstract: This paper investigates the effects of campaign finance rules on electoral outcomes. In French departmental and municipal elections, candidates competing in districts above 9,000 inhabitants face spending limits and are eligible for public reimbursement if they obtain more than five percent of the votes. Using an RDD around the population threshold, we find that these rules increase competitiveness and benefit the runner-up of the previous race as well as new candidates, in departmental elections, while leaving the polarization and representativeness of the results unaffected. Incumbents are less likely to get reelected because they are less likely to run and obtain a lower vote share, conditional on running. These results appear to be driven by the reimbursement of campaign expenditures, not spending limits. We do not find such effects in municipal elections, which we attribute to the use of a proportional list system instead of plurality voting.
