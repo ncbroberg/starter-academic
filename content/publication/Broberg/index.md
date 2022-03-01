@@ -2,7 +2,6 @@
 title: "A Politically Independent Executive Arm? EU Commissioners' Ideological Alignment and Budget Allocation in the European Union"
 authors: 
 - admin
-- Lars Ludolph
 date: "2022-03-01T00:00:00Z"
 doi: ""
 featured: false
