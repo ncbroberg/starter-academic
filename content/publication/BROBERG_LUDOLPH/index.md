@@ -30,7 +30,7 @@ tags:
 
 links: 
 - name: Link to working paper (new version coming soon)
-  url: https://nikolajbroberg.org/publication/BROBERG_LUDOLPH/SSRN-id3972303.pdf}
+  url: https://nikolajbroberg.org/publication/BROBERG_LUDOLPH/SSRN-id3972303.pdf
 url_pdf: 
 url_code: ''
 url_dataset: ''
