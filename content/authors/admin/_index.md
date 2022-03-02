@@ -58,5 +58,5 @@ I am a PhD candidate in Economics at the European University Institute (EUI), wo
 
 I am also a Research Associate at the Migration Policy Centre within the Robert Schuman Centre at the EUI.
 
-My research interests include political economy, migration, and public economics. You can find my CV [here.](files/CV.pdf)
+My research interests include political economy, migration, and public economics. You can find my CV [here.](static/uploads/vita.pdf)
 
