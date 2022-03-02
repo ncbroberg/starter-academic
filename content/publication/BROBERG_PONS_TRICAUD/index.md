@@ -31,7 +31,7 @@ tags:
 
 links: 
 - name: Link to working paper
-  url:  https://www.nber.org/papers/w29805
+  url:  https://nikolajbroberg.org/publication/BROBERG_PONS_TRICAUD/w29805.pdf
 url_pdf: 
 url_code: ''
 url_dataset: ''
