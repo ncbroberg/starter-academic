@@ -27,7 +27,7 @@ tags:
 
 links: 
 - name: Link to working paper
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4046936
+  url: https://nikolajbroberg.org/publication/Broberg/EC_paper.pdf
 url_pdf: 
 url_code: ''
 url_dataset: ''
