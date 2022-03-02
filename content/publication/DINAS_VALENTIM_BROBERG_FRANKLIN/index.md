@@ -32,7 +32,7 @@ tags:
 
 links: 
 - name: Link to working paper
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3466515
+  url: https://nikolajbroberg.org/publication/DINAS_VALENTIM_BROBERG_FRANKLIN/SSRN-id3466515.pdf
 url_pdf: 
 url_code: ''
 url_dataset: ''
