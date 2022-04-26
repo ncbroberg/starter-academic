@@ -4,7 +4,7 @@ authors:
 - admin
 date: "2022-03-01T00:00:00Z"
 doi: ""
-featured: false
+featured: true
 
 # Schedule page publish date (NOT publication's date).
 
