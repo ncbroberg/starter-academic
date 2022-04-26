@@ -11,7 +11,7 @@
  active = true  # Activate this widget? true/false
  weight = 90  # Order that this section will appear.
 
-# title = "Peer-reviewed publications"
+ title = "Research"
 # subtitle = ""
 
 [content]
