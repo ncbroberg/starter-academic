@@ -3,6 +3,18 @@
 # This section displays publications from `content/publication/` which have
 # `featured = true` in their front matter.
 
+
+widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 30  # Order that this section will appear.
+
+title = "Working papers"
+subtitle = ""
+
+
+
+
 # widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 # headless = true  # This file represents a page section.
 # active = true  # Activate this widget? true/false
