@@ -6,7 +6,7 @@ title: Nikolaj Broberg
 superuser: true
 
 # Role/position/tagline
-role: Research associate 
+role: Research Associate 
 
 # Organizations/Affiliations to show in About widget
 organizations:
