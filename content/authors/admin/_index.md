@@ -14,7 +14,7 @@ organizations:
   url: https://www.eui.eu/en/academic-units/department-of-economics
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in empirical political economy and public economics.
+bio: I am interested in empirical political economy, migration, and public economics.
 
 
 # Education to show in About widget
@@ -54,9 +54,9 @@ email: "nikolaj.broberg@eui.eu"
 highlight_name: false
 ---
 
-I am a PhD candidate in Economics at the European University Institute (EUI), working under the supervision of Andrea Ichino and Andrea Mattozzi.
+Hello! 
 
-I am also a Research Associate at the Migration Policy Centre within the Robert Schuman Centre at the EUI.
+I am a Research Associate at the Migration Policy Centre within the Robert Schuman Centre at the European University Institute. I obtained my PhD in Economics from the EUI in May 2022, where I was working under the supervision of Andrea Ichino and Andrea Mattozzi.
 
 My research interests include political economy, migration, and public economics. You can find my CV [here.](uploads/CV.pdf)
 
