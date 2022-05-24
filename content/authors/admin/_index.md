@@ -58,7 +58,7 @@ Hello!
 
 I am a Research Associate at the Migration Policy Centre within the Robert Schuman Centre at the European University Institute (EUI) where I work on attitudes to migration and the impact of migrant labour on the resilience of essential services. 
 
-I obtained my PhD in Economics from the EUI in May 2022, where I was working under the supervision of Andrea Ichino and Andrea Mattozzi.
+I obtained my PhD from the EUI under the supervision of Andrea Ichino and Andrea Mattozzi in 2022. 
 
-My main research interests are political economy, migration, and public economics. You can find my CV [here.](uploads/CV.pdf)
+My main research interests are political economy, migration, and public economics. You can find my CV [here](uploads/CV.pdf).
 
