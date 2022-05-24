@@ -56,11 +56,11 @@ highlight_name: false
 
 Hello! 
 
-I am an applied economist, interested in political economy, migration, and public economics. 
+I am an applied economist interested in political economy, migration, and public economics. 
 
 I work as a Research Associate at the [Migration Policy Centre](https://migrationpolicycentre.eu/#0) where I analyse attitudes to migration and the impact of migrant labour on the resilience of essential services. 
 
-I obtained my PhD from the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics) under the supervision of Andrea Ichino and Andrea Mattozzi in May 2022. 
+I obtained my PhD from the [EUI](https://www.eui.eu/en/academic-units/department-of-economics) under the supervision of Andrea Ichino and Andrea Mattozzi in May 2022. 
 
 You can find my CV [here](uploads/CV.pdf).
 
