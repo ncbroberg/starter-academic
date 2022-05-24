@@ -6,7 +6,7 @@ title: Nikolaj Broberg
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate in Economics
+role: Research associate 
 
 # Organizations/Affiliations to show in About widget
 organizations:
