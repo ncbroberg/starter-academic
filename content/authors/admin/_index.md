@@ -56,9 +56,9 @@ highlight_name: false
 
 Hello! 
 
-I am a Research Associate at the [Migration Policy Centre](https://migrationpolicycentre.eu/#0) within the Robert Schuman Centre at the European University Institute (EUI) where I work on attitudes to migration and the impact of migrant labour on the resilience of essential services. 
+I am a Research Associate at the [Migration Policy Centre](https://migrationpolicycentre.eu/#0) within the [Robert Schuman Centre](https://www.eui.eu/en/academic-units/robert-schuman-centre-for-advanced-studies) at the European University Institute ([EUI](https://www.eui.eu/en/home)) where I work on attitudes to migration and the impact of migrant labour on the resilience of essential services. 
 
-I obtained my PhD from the EUI under the supervision of Andrea Ichino and Andrea Mattozzi in May 2022. 
+I obtained my PhD in Economics from the EUI under the supervision of Andrea Ichino and Andrea Mattozzi in May 2022. 
 
 My main research interests are political economy, migration, and public economics. You can find my CV [here](uploads/CV.pdf).
 
