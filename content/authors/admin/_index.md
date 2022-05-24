@@ -11,7 +11,7 @@ role: Research Associate
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: European University Institute
-  url: https://www.eui.eu/en/home
+  url: https://www.eui.eu/en/academic-units/department-of-economics
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in empirical political economy, migration, and public economics.
@@ -56,7 +56,7 @@ highlight_name: false
 
 Hello! 
 
-I am a Research Associate at the [Migration Policy Centre](https://migrationpolicycentre.eu/#0) within the [Robert Schuman Centre](https://www.eui.eu/en/academic-units/robert-schuman-centre-for-advanced-studies) at the European University Institute ([EUI](https://www.eui.eu/en/home)) where I work on attitudes to migration and the impact of migrant labour on the resilience of essential services. 
+I am a Research Associate at the [Migration Policy Centre](https://migrationpolicycentre.eu/#0) within the European University Institute ([EUI](https://www.eui.eu/en/home)) where I work on attitudes to migration and the impact of migrant labour on the resilience of essential services. 
 
 I obtained my PhD in Economics from the EUI under the supervision of Andrea Ichino and Andrea Mattozzi in May 2022. 
 
