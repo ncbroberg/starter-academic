@@ -6,7 +6,7 @@ title: Nikolaj Broberg
 superuser: true
 
 # Role/position/tagline
-role: Analyst 
+role: Economist 
 
 # Organizations/Affiliations to show in About widget
 organizations:
