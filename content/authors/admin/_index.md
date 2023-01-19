@@ -32,7 +32,7 @@ bio: I am interested in empirical political economy, migration, and public econo
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:nikolaj.broberg@eui.eu
+  link: mailto:Nikolaj.Broberg@alumni.eui.eu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/nikolaj_broberg
