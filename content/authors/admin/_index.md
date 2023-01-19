@@ -6,12 +6,12 @@ title: Nikolaj Broberg
 superuser: true
 
 # Role/position/tagline
-role: Research Associate 
+role: Analyst 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: European University Institute
-  url: https://www.eui.eu/en/home
+- name: OECD
+  url: https://www.oecd.org/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in empirical political economy, migration, and public economics.
@@ -58,9 +58,9 @@ Hello and welcome to my website!
 
 I am an applied economist interested in education, migratio, and political economy. 
 
-I work as an analyst at the [OECD](https://www.oecd.org/) where I work in the Directorate for Education and Skills. 
+I am an analyst/ economist at the [OECD](https://www.oecd.org/) where I work in the Directorate for Education and Skills. 
 
-Prior to joining the OECD, I worked as a Research Associate at the [Migration Policy Centre](https://migrationpolicycentre.eu/) at the [European University Institute](https://www.eui.eu/en/home).
+Prior to joining the OECD, I was a Research Associate at the [Migration Policy Centre](https://migrationpolicycentre.eu/) at the [https://www.eui.eu/en/academic-units/robert-schuman-centre-for-advanced-studies](https://www.eui.eu/en/academic-units/robert-schuman-centre-for-advanced-studies).
 
 I received my PhD from the [EUI](https://www.eui.eu/en/academic-units/department-of-economics) under the supervision of Andrea Ichino and Andrea Mattozzi in May 2022. 
 
