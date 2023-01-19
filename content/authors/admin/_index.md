@@ -58,7 +58,7 @@ Hello and welcome to my website!
 
 I am an applied economist interested in education, migration, and political economy. 
 
-I am an analyst/ economist at the [OECD](https://www.oecd.org/)'s Directorate for Education and Skills. 
+I work as an analyst within the [OECD](https://www.oecd.org/)'s Directorate for Education and Skills. 
 
 Prior to joining the OECD, I was a Research Associate at the [Migration Policy Centre](https://migrationpolicycentre.eu/) at the [Robert Schuman Centre for Advanced Studies](https://www.eui.eu/en/academic-units/robert-schuman-centre-for-advanced-studies).
 
