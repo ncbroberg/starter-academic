@@ -31,8 +31,8 @@ tags:
 
 
 links: 
-- name: Link to working paper
-  url: https://nikolajbroberg.org/publication/DINAS_VALENTIM_BROBERG_FRANKLIN/SSRN-id3466515.pdf
+- name: Link to publication
+  url: https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/early-voting-experiences-and-habit-formation/4E381E8D8092788B0A267EAFBE9039D8
 url_pdf: 
 url_code: ''
 url_dataset: ''
