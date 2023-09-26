@@ -8,7 +8,7 @@ active = true # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 
-title = "Working papers"
+title = "Publications"
 subtitle = ""
 
 [content]  
