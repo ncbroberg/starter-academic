@@ -6,7 +6,7 @@ authors:
 - admin
 - Mark Franklin
 date: "2023"
-doi: ""
+doi: "1-12. doi:10.1017/psrm.2023.2"
 featured: false
 
 # Schedule page publish date (NOT publication's date).
@@ -15,7 +15,7 @@ featured: false
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Political Science Research and Methods 
