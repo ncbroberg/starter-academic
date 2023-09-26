@@ -64,3 +64,5 @@ I received my PhD from the [European University Institute](https://www.eui.eu/en
 
 You can find my CV [here](uploads/CV.pdf).
 
+Note: This is my personal webpage and the views expressed here do not necessarily reflect the official position of the OECD.
+
