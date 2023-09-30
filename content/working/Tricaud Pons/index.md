@@ -1,17 +1,12 @@
-
 ---
-title: "The Impact of Campaign Finance Rules on Candidate Selection and Electoral Outcomes: Evidence from France"
-authors:
+title: "Central Bank Communication with the General Public: Survey Evidence from Germany"
+authors: 
 - admin
-- Vincent Pons
-- Clemence Tricaud
-
-date: "2022-02-01T00:00:00Z"
+date: "2022-01-01T00:00:00Z"
 doi: ""
 featured: false
- 
+
 # Schedule page publish date (NOT publication's date).
-"2022-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,27 +15,31 @@ featured: false
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: National Bureau of Economic Research (NBER) Working Paper
+publication: 
 publication_short: 
 
-abstract: "This paper investigates the effects of campaign finance rules on electoral outcomes. In French departmental and municipal elections, candidates competing in districts above 9,000 inhabitants face spending limits and are eligible for public reimbursement if they obtain more than five percent of the votes. Using an RDD around the population threshold, we find that these rules increase competitiveness and benefit the runner-up of the previous race as well as new candidates, in departmental elections, while leaving the polarization and representativeness of the results unaffected. Incumbents are less likely to get reelected because they are less likely to run and obtain a lower vote share, conditional on running. These results appear to be driven by the reimbursement of campaign expenditures, not spending limits. We do not find such effects in municipal elections, which we attribute to the use of a proportional list system instead of plurality voting."
+abstract: This paper studies the effect of different types of monetary policy announcements on household inflation expectations based on micro data from a survey of German households. As unique feature, interviews of the survey were conducted both shortly before and after monetary policy events. This timing provides a natural experiment to identify the immediate effects of policy announcements on household inflation expectations. In contrast to most existing studies, the availability of the survey over a period of 15 years also allows me to exploit the time-series dimension to estimate how policy announcements affect household inflation expectations over the medium-term. I find that policy rate announcements lead to quick and significant adjustments in household inflation expectations with the effect peaking after half a year. Announcements about forward guidance and quantitative easing, on the other hand, have only small and delayed effects. My results suggest that monetary policy announcements can influence household expectations but further improvements in communication seem to be necessary to reach the general public more effectively. In particular, in an environment where policy rates are constrained by the effective lower bound, it may be very hard for central banks to influence household expectations. 
+
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: This paper studies the effect of different types of monetary policy announcements on household inflation expectations based on micro data from a survey of German households. As unique feature, interviews of the survey were conducted both shortly before and after monetary policy events. This timing provides a natural experiment to identify the immediate effects of policy announcements on household inflation expectations. In contrast to most existing studies, the availability of the survey over a period of 15 years also allows me to exploit the time-series dimension to estimate how policy announcements affect household inflation expectations over the medium-term. I find that policy rate announcements lead to quick and significant adjustments in household inflation expectations with the effect peaking after half a year. Announcements about forward guidance and quantitative easing, on the other hand, have only small and delayed effects. My results suggest that monetary policy announcements can influence household expectations but further improvements in communication seem to be necessary to reach the general public more effectively. In particular, in an environment where policy rates are constrained by the effective lower bound, it may be very hard for central banks to influence household expectations. 
 
-tags:
+tags: 
 
-links:
-- name: NBER Working Paper 2022
-  url: https://www.nber.org/papers/w29805
+
+links: 
+- name: Draft
+  url: publication/JMP/Rast_JMP.pdf
 url_pdf: 
-url_code: 
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -64,3 +63,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
