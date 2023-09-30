@@ -1,21 +1,23 @@
 
 ---
-title: "The Role of Labor Market Institutions in Shaping Reliance on Migrant Labor in Essential Occupations: A Comparative Analysis across European Countries"
+title: "Early voting experiences and habit formation"
 authors:
+- Elias Dinas
+- Vicent Valentim
 - admin
-- Jerome Gonnot, Friedrich Poeschel, Martin Ruhs
+- Mark Franklin
 
 doi: ""
 date: ""
  
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-10-22T00:00:00Z"
+publishDate: "2023-03-22T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: 
