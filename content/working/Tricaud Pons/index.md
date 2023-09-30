@@ -1,6 +1,6 @@
 
 ---
-title: "Early voting experiences and habit formation"
+title: "The Impact of Campaign Finance Rules on Candidate Selection and Electoral Outcomes: Evidence from France"
 authors:
 - admin
 - Vincent Pons
