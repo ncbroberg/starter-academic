@@ -8,7 +8,7 @@ active = true # Activate this widget? true/false
 weight = 120  # Order that this section will appear.
 
 
-title = "Policy work"
+title = "Policy"
 subtitle = ""
 
 [content]  
