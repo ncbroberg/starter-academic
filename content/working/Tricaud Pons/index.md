@@ -29,15 +29,18 @@ summary: This paper investigates the effects of campaign finance rules on electo
 tags: 
 
 
+
 links: 
 - name: NBER working paper
   url: https://www.nber.org/papers/w29805
   
-links: 
-- name: NBER working paper
-  url: https://www.nber.org/papers/w29805
-  
-  links: 
+
+ links: 
+- name: Voxeu column
+  url: https://anderson-review.ucla.edu/reimbursing-candidate-campaign-contributions-makes-elections-more-competitive/
+
+
+   links: 
 - name: UCLA Anderson Review
   url: https://anderson-review.ucla.edu/reimbursing-candidate-campaign-contributions-makes-elections-more-competitive/
   
