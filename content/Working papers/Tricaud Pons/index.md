@@ -30,7 +30,7 @@ tags:
 
 
 links: 
-- name: National Bureau of Economic Research (NBER) 2022 Working Paper
+- name: NBER 2022 Working Paper
   url: https://www.nber.org/papers/w29805
 url_pdf: 
 url_code: ''
