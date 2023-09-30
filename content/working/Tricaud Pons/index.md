@@ -34,8 +34,8 @@ links:
   url: https://www.nber.org/papers/w29805
   
 links: 
-- name: Voxeu column
-  url: https://cepr.org/voxeu/columns/campaign-finance-rules-and-their-effects-election-outcomes
+- name: NBER working paper
+  url: https://www.nber.org/papers/w29805
   
   links: 
 - name: UCLA Anderson Review
