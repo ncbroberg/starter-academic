@@ -5,12 +5,12 @@
 
 main:
   - name: Home
-    url: '#about' 
+    url: '#about'
     weight: 10
-  - name: Research
+  - name: Academic work
     url: '#featured'
     weight: 20
-  - name: CV 
+  - name: CV
     url: uploads/CV.pdf
     weight: 30
 
