@@ -20,7 +20,7 @@ publishDate: "2023-03-22T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: 
+publication: Political Science Research and Methods, 1-12. doi:10.1017/psrm.2023.2
 publication_short: 
 
 abstract: 
