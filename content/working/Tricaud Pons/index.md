@@ -30,7 +30,7 @@ tags:
 
 
 links: 
-- name: NBER 2022 Working Paper
+- name: NBER Working Paper, 2022
   url: https://www.nber.org/papers/w29805
 
   links: 
