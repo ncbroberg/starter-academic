@@ -7,7 +7,7 @@ authors:
 - admin
 - Mark Franklin
 
-doi: "https://doi.org/10.1017/psrm.2023.2"
+doi: 
 date: "2023"
  
 # Schedule page publish date (NOT publication's date).
@@ -32,7 +32,7 @@ tags:
 
 links:
 url_pdf: 
-url_code: 'https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/early-voting-experiences-and-habit-formation/4E381E8D8092788B0A267EAFBE9039D8'
+url_code: 
 url_dataset: ''
 url_poster: ''
 url_project: ''
