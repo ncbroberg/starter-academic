@@ -1,28 +1,29 @@
 
 ---
-title: "The Impact of Campaign Finance Rules on Candidate Selection and Electoral Outcomes: Evidence from France"
+title: "Early voting experiences and habit formation"
 authors:
+- Elias Dinas
+- Vicent Valentim
 - admin
-- Vincent Pons
-- Clemence Tricaud
+- Mark Franklin
 
 doi:
 date: "2023"
  
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-02-22T00:00:00Z"
+publishDate: "2023-03-22T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: National Bureau of Economic Research Working Paper
+publication: Political Science Research and Methods, 1-12.
 publication_short: 
 
-abstract: "This paper investigates the effects of campaign finance rules on electoral outcomes. In French departmental and municipal elections, candidates competing in districts above 9,000 inhabitants face spending limits and are eligible for public reimbursement if they obtain more than five percent of the votes. Using an RDD around the population threshold, we find that these rules increase competitiveness and benefit the runner-up of the previous race as well as new candidates, in departmental elections, while leaving the polarization and representativeness of the results unaffected. Incumbents are less likely to get reelected because they are less likely to run and obtain a lower vote share, conditional on running. These results appear to be driven by the reimbursement of campaign expenditures, not spending limits. We do not find such effects in municipal elections, which we attribute to the use of a proportional list system instead of plurality voting."
+abstract: "Research has shown that first-time voting experiences affect subsequent voting behavior, with salient elections boosting subsequent turnout and non-salient ones suppressing it. We challenge this view. Following research on the context-dependent nature of habit formation, we argue that all elections should affect subsequent turnout in elections of the same type. Comparing individuals that differ only in how salient their first eligible election was (Presidential or Midterm), we find support for this expectation. Individuals are more likely to vote for, and be interested in, elections of the same type as their first voting experience. Leveraging voting age laws in the US, we also show that such laws affect subsequent participation by changing the type of election individuals are first eligible for."
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -30,8 +31,8 @@ summary:
 tags:
 
 links:
-- name: NBER Working Papers
-  url: https://www.nber.org/papers/w29805
+- name: Political Science Research and Methods
+  url: https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/early-voting-experiences-and-habit-formation/4E381E8D8092788B0A267EAFBE9039D8
 url_pdf: 
 url_code: 
 url_dataset: ''
