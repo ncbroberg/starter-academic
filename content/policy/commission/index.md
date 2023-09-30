@@ -1,7 +1,7 @@
 ---
 title: "IDR Macroeconomic imbalances - France 2014"
 authors: 
-- Directorate-General for Economic and Financial Affairs(ECFIN), European Commission
+- Directorate-General for Economic and Financial Affairs (ECFIN), European Commission
 date: "2022-01-01T00:00:00Z"
 doi: ""
 featured: false
