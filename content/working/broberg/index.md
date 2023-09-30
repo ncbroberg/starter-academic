@@ -1,7 +1,7 @@
 ---
 title: "A Politically Independent Executive Arm? EU Commissioners' Ideological Alignment and Budget Allocation in the European Union"
 authors: 
-- admint
+- admin
 date: "2022-01-01T00:00:00Z"
 doi: ""
 featured: false
