@@ -1,7 +1,7 @@
 ---
 title: "A Politically Independent Executive Arm? EU Commissioners' Ideological Alignment and Budget Allocation in the European Union"
 authors: 
-- admint
+- admin
 date: "2022-01-01T00:00:00Z"
 doi: ""
 featured: false
@@ -12,19 +12,12 @@ featured: false
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: 
 publication_short: 
 
-abstract: This paper investigates the effects of the political distance between European Commissioners and heads of government on the allocation of funds flowing from the European Union to EU member states. The EU's agricultural and regional budgets offer two particularly interesting case studies due to the discretion exerted in these domains by the Commissioner for Agriculture and the Commissioner for Regional Policy, respectively. Leveraging the difference in timing in the turnovers of Commissioners and heads of government, I test whether the political distance between EU commissioners and heads of administrations affects the share of agricultural and regional funds countries receive from 1979 to 2006. Results show that greater ideological distance is a strongly significant deterrent of funds being channelled. The effects are strongest in pre-election years, for countries providing the Commissioners in charge of the given portfolios, and for countries that are single-party ruled, as opposed to coalition ruled. These findings suggest the behavior of European Commissioners follows similar principles to nationally elected leaders and are important given the salience of agriculture and regional funding at the European level and ongoing debates surrounding EU integration and the political independence of the EU's executive body.
-
-
-# Summary. An optional shortened abstract.
-summary: This paper investigates the effects of the political distance between European Commissioners and heads of government on the allocation of funds flowing from the European Union to EU member states. The EU's agricultural and regional budgets offer two particularly interesting case studies due to the discretion exerted in these domains by the Commissioner for Agriculture and the Commissioner for Regional Policy, respectively. Leveraging the difference in timing in the turnovers of Commissioners and heads of government, I test whether the political distance between EU commissioners and heads of administrations affects the share of agricultural and regional funds countries receive from 1979 to 2006. Results show that greater ideological distance is a strongly significant deterrent of funds being channelled. The effects are strongest in pre-election years, for countries providing the Commissioners in charge of the given portfolios, and for countries that are single-party ruled, as opposed to coalition ruled. These findings suggest the behavior of European Commissioners follows similar principles to nationally elected leaders and are important given the salience of agriculture and regional funding at the European level and ongoing debates surrounding EU integration and the political independence of the EU's executive body.
-
-tags: 
 
 
 links: 
