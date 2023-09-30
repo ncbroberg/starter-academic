@@ -1,6 +1,6 @@
 
 ---
-title: "[Early voting experiences and habit formation]([https://migrationpolicycentre.eu/](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/early-voting-experiences-and-habit-formation/4E381E8D8092788B0A267EAFBE9039D8)"
+title: "Early voting experiences and habit formation"
 authors:
 - Elias Dinas
 - Vicent Valentim
