@@ -37,7 +37,7 @@ links:
 
  links: 
 - name: Voxeu column
-  url: https://anderson-review.ucla.edu/reimbursing-candidate-campaign-contributions-makes-elections-more-competitive/
+  url: https://anderson-review.ucla.edu/reimbursing-candidate-campaign-contributions-makes-elections-more-competitive/ 
 
 
    links: 
