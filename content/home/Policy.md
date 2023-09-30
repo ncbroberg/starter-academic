@@ -31,7 +31,7 @@ subtitle = ""
     category = ""
     publication_type = ""
     exclude_featured = true
-  
+   
 [design]
   # Toggle between the various page layout types.
   #   1 = List
