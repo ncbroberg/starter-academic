@@ -30,7 +30,9 @@ summary:
 
 tags:
 
-links: "https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/early-voting-experiences-and-habit-formation/4E381E8D8092788B0A267EAFBE9039D8"
+links:
+- name: Draft
+  url: https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/early-voting-experiences-and-habit-formation/4E381E8D8092788B0A267EAFBE9039D8
 url_pdf: 
 url_code: 
 url_dataset: ''
