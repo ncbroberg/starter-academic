@@ -32,6 +32,17 @@ tags:
 links: 
 - name: NBER 2022 Working Paper
   url: https://www.nber.org/papers/w29805
+
+  links: 
+- name: Voxeu column
+  url: https://cepr.org/voxeu/columns/campaign-finance-rules-and-their-effects-election-outcomes
+
+  links: 
+- name: UCLA Anderson review
+  url: https://anderson-review.ucla.edu/reimbursing-candidate-campaign-contributions-makes-elections-more-competitive/
+
+  
+  
 url_pdf: 
 url_code: ''
 url_dataset: ''
