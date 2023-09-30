@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Academic and policy work
+  - name: Research and policy work
     url: '#featured'
     weight: 20
   - name: CV
