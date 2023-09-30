@@ -35,7 +35,7 @@ links:
   - name: Voxeu column
   url: https://cepr.org/voxeu/columns/campaign-finance-rules-and-their-effects-election-outcomes
 - UCLA Anderson review
-  ucl: https://anderson-review.ucla.edu/reimbursing-candidate-campaign-contributions-makes-elections-more-competitive/
+  url: https://anderson-review.ucla.edu/reimbursing-candidate-campaign-contributions-makes-elections-more-competitive/
 url_pdf: 
 url_code: 
 url_dataset: ''
