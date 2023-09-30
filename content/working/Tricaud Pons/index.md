@@ -7,7 +7,7 @@ authors:
 - Clemence Tricaud
 
 doi:
-date:
+date: "2022-02-22T00:00:00Z"
  
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-02-22T00:00:00Z"
