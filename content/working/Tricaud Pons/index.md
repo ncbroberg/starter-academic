@@ -17,7 +17,7 @@ featured: false
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: National Bureau of Economic Research (NBER) Working Paper
@@ -31,7 +31,7 @@ summary:
 tags:
 
 links:
-- name: NBER Working Paper
+- name: NBER Working Paper, 2022
   url: https://www.nber.org/papers/w29805
 - name: Voxeu column
   url: https://cepr.org/voxeu/columns/campaign-finance-rules-and-their-effects-election-outcomes
