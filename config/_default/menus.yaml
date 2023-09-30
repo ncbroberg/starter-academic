@@ -7,15 +7,12 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Research
+  - name: Research and policy work
     url: '#featured'
     weight: 20
-  - name: Policy 
-    url: '#policy' 
-    weight: 30
   - name: CV 
     url: uploads/CV.pdf
-    weight: 40
+    weight: 30
 
 
 # Link to a PDF of your resume/CV from the menu.
