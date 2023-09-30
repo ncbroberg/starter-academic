@@ -4,8 +4,8 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true # Activate this widget? true/false
-weight = 95  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 100  # Order that this section will appear.
 
 title = "Working papers"
 subtitle = ""
@@ -13,7 +13,7 @@ subtitle = ""
 [content]  
 
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
+  page_type = "working"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -22,7 +22,7 @@ subtitle = ""
   offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
+  order = "asc"
 
   # Filter posts by a taxonomy term.
   [content.filters]
@@ -37,7 +37,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
