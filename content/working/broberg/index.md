@@ -31,15 +31,7 @@ links:
 - name: SSRN Working paper, 2022
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4046936
 
-  links: 
-- name: Voxeu column
-  url: https://cepr.org/voxeu/columns/campaign-finance-rules-and-their-effects-election-outcomes
 
-  links: 
-- name: UCLA Anderson review
-  url: https://anderson-review.ucla.edu/reimbursing-candidate-campaign-contributions-makes-elections-more-competitive/
-
-  
   
 url_pdf: 
 url_code: ''
