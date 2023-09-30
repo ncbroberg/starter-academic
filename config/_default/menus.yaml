@@ -11,7 +11,7 @@ main:
     url: '#featured'
     weight: 20
   - name: Policy 
-    url: '#policy'
+    url: '#policy' 
     weight: 30
   - name: CV 
     url: uploads/CV.pdf
