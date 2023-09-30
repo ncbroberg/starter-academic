@@ -13,7 +13,7 @@ main:
   - name: Policy 
     url: '#policy'
     weight: 30
-  - name: CV
+  - name: CV 
     url: uploads/CV.pdf
     weight: 40
 
