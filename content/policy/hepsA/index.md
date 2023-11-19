@@ -4,7 +4,7 @@ authors:
 - admin
 - Gillian Golden
 date: "2022-01-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1787/93468ccb-en"
 featured: false
 
 # Schedule page publish date (NOT publication's date).
@@ -28,7 +28,7 @@ tags:
 
 
 links: 
-- name: OECD Education Working Papers
+- name: OECD Education Working Papers, No. 303
   url: https://www.oecd-ilibrary.org/education/how-are-oecd-governments-navigating-the-digital-higher-education-landscape_93468ccb-en
 
   
