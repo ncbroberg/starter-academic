@@ -1,9 +1,10 @@
 ---
-title: "How are OECD governments navigating the digital higher education landscape?
-Evidence from a comparative policy survey"
-authors: Nikolaj Broberg 
+title: "How are OECD governments navigating the digital higher education landscape? Evidence from a comparative policy survey"
+authors: 
+- admin
+- Gillian Golden
 date: "2022-01-01T00:00:00Z"
-doi: "https://doi.org/10.1787/93468ccb-en"
+doi: ""
 featured: false
 
 # Schedule page publish date (NOT publication's date).
@@ -12,14 +13,13 @@ featured: false
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["4"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: 
 publication_short: 
 
-abstract:
-
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -27,10 +27,9 @@ summary:
 tags: 
 
 
-links: OECD Education Working Papers
-- name: 
-  url: https://www.oecd-ilibrary.org/education/how-are-oecd-governments-navigating-the-digital-higher-education-landscape_93468ccb-en 
-
+links: 
+- name: OECD Education Working Papers
+  url: https://www.oecd-ilibrary.org/education/how-are-oecd-governments-navigating-the-digital-higher-education-landscape_93468ccb-en
 
   
 url_pdf: 
