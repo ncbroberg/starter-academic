@@ -4,9 +4,8 @@ authors:
 - admin
 - Vincent Pons
 - Clemence Tricaud
--  Revise and resubmit Journal of the European Economic Association
 date: "2022-01-01T00:00:00Z"
-doi: ""
+doi: - fnf
 featured: false
 
 
@@ -20,7 +19,7 @@ publishDate: "2023-03-22T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Political Science Research and Methods, 1-12.
+publication: 
 publication_short: 
 
 
