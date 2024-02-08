@@ -4,7 +4,7 @@ authors:
 - admin
 - Vincent Pons
 - Clemence Tricaud
--  Revise and resubmit **_Journal of the European Economic Association._** 
+-  Revise and resubmit Journal of the European Economic Association
 date: "2022-01-01T00:00:00Z"
 doi: ""
 featured: false
