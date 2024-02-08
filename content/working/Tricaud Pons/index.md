@@ -17,7 +17,7 @@ featured: false
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Revise and resubmit **_Journal of the European Economic Association._** 
+- publication: Revise and resubmit **_Journal of the European Economic Association._** 
 publication_short: 
 
 
