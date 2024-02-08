@@ -9,16 +9,18 @@ date: "2022-01-01T00:00:00Z"
 doi: ""
 featured: false
 
+
 # Schedule page publish date (NOT publication's date).
+publishDate: "2023-03-22T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Revise and resubmit **_Journal of the European Economic Association._** 
+publication: Political Science Research and Methods, 1-12.
 publication_short: 
 
 
