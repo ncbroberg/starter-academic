@@ -34,7 +34,7 @@ links:
   url: https://theconversation.com/pourquoi-les-travailleurs-immigres-sont-ils-surrepresentes-dans-les-secteurs-essentiels-219980
 
   links:
-- name: The Converstion column (Engligh)
+- name: The Converstion column (English)
   url: https://theconversation.com/as-france-moves-to-limit-the-rights-of-migrants-research-reveals-just-how-reliant-on-them-it-is-220243
 
 
