@@ -14,7 +14,7 @@ organizations:
   url: https://www.oecd.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in empirical political economy, migration, and public economics.
+bio: I am interested in education, innovation, political economy and public economics.
 
 
 # Education to show in About widget
