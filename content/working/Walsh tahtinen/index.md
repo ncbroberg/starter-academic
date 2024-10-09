@@ -1,10 +1,10 @@
 ---
-title: "The Impact of Campaign Finance Rules on Candidate Selection and Electoral Outcomes: Evidence from France"
+title: "Making the Cut: Close Elections and Local Welfare Policy"
 authors: 
 - admin
-- Vincent Pons
-- Clemence Tricaud
-- Revise and resubmit Journal of the European Economic Association
+- Tuuli Tähtinen
+- Thomas Walsh
+- Under review
 date: "2022-01-01T00:00:00Z"
 doi: 
 featured: false
@@ -24,26 +24,18 @@ publication:
 publication_short: 
 
 
-abstract: This paper investigates the effects of campaign finance rules on electoral outcomes. In French departmental and municipal elections, candidates competing in districts above 9,000 inhabitants face spending limits and are eligible for public reimbursement if they obtain more than five percent of the votes. Using an RDD around the population threshold, we find that these rules increase competitiveness and benefit the runner-up of the previous race as well as new candidates, in departmental elections, while leaving the polarization and representativeness of the results unaffected. Incumbents are less likely to get reelected because they are less likely to run and obtain a lower vote share, conditional on running. These results appear to be driven by the reimbursement of campaign expenditures, not spending limits. We do not find such effects in municipal elections, which we attribute to the use of a proportional list system instead of plurality voting.
+abstract: This paper investigates how political alignment affects the implementation of punitive welfare measures in the UK. In particular, we examine whether a legislator's party affiliation affects the rate of sanctions to unemployment benefits in the MP's constituency. To address the endogeneity of winning party and constituency characteristics, we use a regression discontinuity design based on close elections to compare the sanction rates across constituencies that are marginally aligned or unaligned with the central government. We find that implementation of the sanction regime is significantly more lenient in constituencies won by the government-aligned parties. The RD estimate indicates a drop of .8 percentage points, implying on average 18 % lower sanction rates in central government controlled constituencies. Our findings show that legislators are able to influence local implementation of national, rule-based policies, even within a highly centralized system. Such political influence undermines institutions that should be neutral to local partisan considerations.
 
 
 # Summary. An optional shortened abstract.
-summary: This paper investigates the effects of campaign finance rules on electoral outcomes. In French departmental and municipal elections, candidates competing in districts above 9,000 inhabitants face spending limits and are eligible for public reimbursement if they obtain more than five percent of the votes. Using an RDD around the population threshold, we find that these rules increase competitiveness and benefit the runner-up of the previous race as well as new candidates, in departmental elections, while leaving the polarization and representativeness of the results unaffected. Incumbents are less likely to get reelected because they are less likely to run and obtain a lower vote share, conditional on running. These results appear to be driven by the reimbursement of campaign expenditures, not spending limits. We do not find such effects in municipal elections, which we attribute to the use of a proportional list system instead of plurality voting.
+summary: This paper investigates how political alignment affects the implementation of punitive welfare measures in the UK. In particular, we examine whether a legislator's party affiliation affects the rate of sanctions to unemployment benefits in the MP's constituency. To address the endogeneity of winning party and constituency characteristics, we use a regression discontinuity design based on close elections to compare the sanction rates across constituencies that are marginally aligned or unaligned with the central government. We find that implementation of the sanction regime is significantly more lenient in constituencies won by the government-aligned parties. The RD estimate indicates a drop of .8 percentage points, implying on average 18 % lower sanction rates in central government controlled constituencies. Our findings show that legislators are able to influence local implementation of national, rule-based policies, even within a highly centralized system. Such political influence undermines institutions that should be neutral to local partisan considerations.
 
 tags: 
 
 
 links: 
-- name: NBER Working Paper, 2022
-  url: https://www.nber.org/papers/w29805
-
-  links: 
-- name: Voxeu column
-  url: https://cepr.org/voxeu/columns/campaign-finance-rules-and-their-effects-election-outcomes
-
-  links: 
-- name: UCLA Anderson review
-  url: https://anderson-review.ucla.edu/reimbursing-candidate-campaign-contributions-makes-elections-more-competitive/
+- name: SSRN Working paper, 2024
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012
 
   
   
