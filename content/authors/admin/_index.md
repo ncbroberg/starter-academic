@@ -56,7 +56,7 @@ highlight_name: false
 
 Hello and welcome to my website! 
 
-I am an applied microeconomist interested in education, innovation, public economics and political economy. I work as an analyst within the [OECD](https://www.oecd.org/)'s Directorate for Education and Skills. 
+I am an applied economist interested in education, innovation, political economy and public economics. I work as an analyst within the [OECD](https://www.oecd.org/)'s Directorate for Education and Skills. 
 
 Prior to joining the OECD, I was a Research Associate at the [Migration Policy Centre](https://migrationpolicycentre.eu/) at the [Robert Schuman Centre for Advanced Studies](https://www.eui.eu/en/academic-units/robert-schuman-centre-for-advanced-studies).
 
