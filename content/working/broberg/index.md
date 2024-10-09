@@ -1,5 +1,5 @@
 ---
-title: "Transcending Borders: Political Dynamics or Bureaucratic Independence in EU Budget Allocation"
+title: "Transnational Political Alignment or Bureaucratic Independence? European Commissioners and EU Budget Allocation"
 authors: 
 - admin
 date: "2022-01-01T00:00:00Z"
