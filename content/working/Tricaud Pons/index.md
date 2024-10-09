@@ -1,5 +1,5 @@
 ---
-title: "The Impact of Campaign Finance Rules on Candidate Selection and Electoral Outcomes: Evidence from France"
+title: "Spending Limits, Public Funding, and Election Outcomes"
 authors: 
 - admin
 - Vincent Pons
