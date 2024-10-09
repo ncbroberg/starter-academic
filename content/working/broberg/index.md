@@ -1,5 +1,5 @@
 ---
-title: "Transcending Borders: Political Dynamics and Bureaucratic Independence in EU Budget Allocation"
+title: "Transcending Borders: Political Dynamics or Bureaucratic Independence in EU Budget Allocation"
 authors: 
 - admin
 - Under review
