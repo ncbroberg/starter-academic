@@ -1,5 +1,5 @@
 ---
-title: "A Politically Independent Executive Arm? EU Commissioners' Ideological Alignment and Budget Allocation in the European Union"
+title: "Transcending Borders: Political Dynamics or Bureaucratic Independence in EU Budget Allocation"
 authors: 
 - admin
 date: "2022-01-01T00:00:00Z"
