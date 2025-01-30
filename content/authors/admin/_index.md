@@ -56,9 +56,9 @@ highlight_name: false
 
 Hello and welcome to my website! 
 
-I am an applied economist interested in education, innovation, political economy and public economics. I work as an analyst within the [OECD](https://www.oecd.org/)'s Directorate for Education and Skills. 
+I am an applied economist working at the [OECD's Economics Department](https://www.oecd.org/en/topics/economy.html). 
 
-Prior to joining the OECD, I was a Research Associate at the [Migration Policy Centre](https://migrationpolicycentre.eu/) at the [Robert Schuman Centre for Advanced Studies](https://www.eui.eu/en/academic-units/robert-schuman-centre-for-advanced-studies).
+Prior to joining the Economics Department, I was an analyst in the [Directorate for Education and Skills](https://www.oecd.org/en/topics/education-and-skills.html) and before that a Research Associate at the [Migration Policy Centre](https://migrationpolicycentre.eu/) at the [Robert Schuman Centre for Advanced Studies](https://www.eui.eu/en/academic-units/robert-schuman-centre-for-advanced-studies).
 
 I received my PhD from the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics) under the supervision of Andrea Ichino and Andrea Mattozzi in May 2022. 
 
