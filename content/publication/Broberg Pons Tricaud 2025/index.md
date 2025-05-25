@@ -1,6 +1,6 @@
 
 ---
-title: "Early voting experiences and habit formation"
+title: "Spending Limits, Public Funding, and Election Outcomes"
 authors:
 - admin
 - Vincent Pons
@@ -22,7 +22,7 @@ publication_types: ["2"]
 publication: Conditionally accepted at Journal of the European Economic Association
 publication_short: 
 
-abstract: "This paper investigates the effects of campaign finance rules on electoral outcomes. In French departmental and municipal elections, candidates competing in districts above 9,000 inhabitants face spending limits and are eligible for public reimbursement if they obtain more than five percent of the votes. Using an RDD around the population threshold, we find that these rules increase competitiveness and benefit the runner-up of the previous race as well as new candidates, in departmental elections, while leaving the polarization and representativeness of the results unaffected. Incumbents are less likely to get reelected because they are less likely to run and obtain a lower vote share, conditional on running. These results appear to be driven by the reimbursement of campaign expenditures, not spending limits. We do not find such effects in municipal elections, which we attribute to the use of a proportional list system instead of plurality voting."
+abstract: "This paper investigates the effects of campaign finance rules on electoral outcomes. In French local elections, candidates competing in districts above 9,000 inhabitants face spending limits and are eligible for public reimbursement. Using an RDD around the population threshold, we find that these rules increase competitiveness and benefit the runner-up of the previous race as well as new candidates, in departmental elections, while leaving the polarization of results and winners’ representativeness and quality unaffected. Incumbents are less likely to get reelected because they are less likely to run and obtain a lower vote share, conditional on running. These results appear to be driven by the reimbursement of campaign expenditures, not spending limits. We do not find such effects in municipal elections, which we attribute to higher spending, decreasing marginal returns of campaign money, and the use of a proportional list system instead of plurality voting."
 
 # Summary. An optional shortened abstract.
 summary: 
