@@ -40,9 +40,10 @@ links:
   links: 
 - name: UCLA Anderson review
   url: https://anderson-review.ucla.edu/reimbursing-candidate-campaign-contributions-makes-elections-more-competitive/
-  url:
+
   
-url_pdf: 
+  
+url_pdf: https://nikolajbroberg.org/uploads/Broberg_Pons_Tricaud_2025.pdf
 url_code: 
 url_dataset: ''
 url_poster: ''
