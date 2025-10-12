@@ -1,9 +1,9 @@
 ---
-title: "Regional health systems during COVID-19: implications of shortages and migration for resilience"
+title: "Market Competition, investment and productivity"
 authors:
 - admin
-- Jerome Gonnot
-- Friedrich Poeschel
+- Luca Marcolin
+- Elettra Sartori
 
 doi: ""
 date: ""
@@ -55,3 +55,8 @@ projects:
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
+---
