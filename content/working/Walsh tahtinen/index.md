@@ -4,7 +4,7 @@ authors:
 - admin
 - Tuuli Tähtinen
 - Thomas Walsh
-- Under review
+- Submitted
 date: "2022-01-01T00:00:00Z"
 doi: 
 featured: false
