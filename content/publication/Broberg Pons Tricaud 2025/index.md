@@ -31,8 +31,7 @@ tags:
 
 links:
 
-- name: Journal of the European Economic Association
-- name: JEEA, 2025
+- name: Journal of the European Economic Association, 2025
   url: https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvaf043/8272654?login=false
 
   links: 
