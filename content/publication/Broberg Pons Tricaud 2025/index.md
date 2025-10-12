@@ -44,7 +44,7 @@ links:
 
   
   
-url_pdf: https://nikolajbroberg.org/uploads/Broberg_Pons_Tricaud_2025.pdf
+url_pdf: 
 url_code: 
 url_dataset: ''
 url_poster: ''
