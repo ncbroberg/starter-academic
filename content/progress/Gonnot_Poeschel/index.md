@@ -1,9 +1,9 @@
 ---
-title: "Market Competition, investment and productivity"
+title: "Regional health systems during COVID-19: implications of shortages and migration for resilience"
 authors:
 - admin
-- Luca Marcolin
-- Elettra Sartori
+- Jerome Gonnot
+- Friedrich Poeschel
 
 doi: ""
 date: ""
