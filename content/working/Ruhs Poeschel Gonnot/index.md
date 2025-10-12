@@ -5,7 +5,7 @@ authors:
 - Jerome Gonnot
 - Friedrich Poeschel
 - Martin Ruhs
-- Under review
+- Submitted
 
 date: "2022-01-01T00:00:00Z"
 doi: 
