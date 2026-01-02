@@ -2,7 +2,6 @@
 title: "Transcending Borders: Political Dynamics or Bureaucratic Independence in EU Budget Allocation"
 authors: 
 - admin
-- Submitted
 date: "2022-01-01T00:00:00Z"
 doi: ""
 featured: false
