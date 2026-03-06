@@ -1,5 +1,5 @@
 ---
-title: "Market Competition, investment and productivity"
+title: "Capital adrift: Declining and diverging investment responsiveness to productivity across countries"
 authors:
 - admin
 - Luca Marcolin
