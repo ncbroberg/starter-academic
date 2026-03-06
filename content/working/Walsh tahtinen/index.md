@@ -34,8 +34,8 @@ tags:
 
 
 links: 
-- name: SSRN Working paper, 2024
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012
+- name: CESifo Working Paper No. 12358 CESifo Munich
+  url: https://www.ifo.de/en/cesifo/publications/2025/working-paper/making-cut-close-elections-and-local-welfare-policy
 
   
   
