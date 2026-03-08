@@ -3,7 +3,7 @@
 title: "Early voting experiences and habit formation"
 authors:
 - Elias Dinas
-- Vicent Valentim
+- Vicente Valentim
 - admin
 - Mark Franklin
 
