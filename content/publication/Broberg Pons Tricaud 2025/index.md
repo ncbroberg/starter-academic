@@ -19,7 +19,7 @@ publishDate: "2025-01-22T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Journal of the European Economic Association
+publication: Journal of the European Economic Association (Lead article)
 publication_short: 
 
 abstract: "This paper investigates the effects of campaign finance rules on electoral outcomes. In French local elections, candidates competing in districts above 9,000 inhabitants face spending limits and are eligible for public reimbursement. Using an RDD around the population threshold, we find that these rules increase competitiveness and benefit the runner-up of the previous race as well as new candidates, in departmental elections, while leaving the polarization of results and winners’ representativeness and quality unaffected. Incumbents are less likely to get reelected because they are less likely to run and obtain a lower vote share, conditional on running. These results appear to be driven by the reimbursement of campaign expenditures, not spending limits. We do not find such effects in municipal elections, which we attribute to higher spending, decreasing marginal returns of campaign money, and the use of a proportional list system instead of plurality voting."
