@@ -1,8 +1,9 @@
 ---
-title: "Migration and redistributive spending : evidence from local authorities in England"
+title: "Declining and diverging investment responsiveness to firm productivity"
 authors: 
 - admin
-- Lars Ludolph
+- Luca Marcolin
+- Elettra Sartori
 date: "2021-01-01T00:00:00Z"
 doi: ""
 featured: false
@@ -19,18 +20,18 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: The inflow of migrants can impact public spending through its effect on local preferences for redistribution and through changes in demand for local services brought about by migrants’ distinct characteristics. In this paper, we analyse the effects of the migration wave from Central and Eastern European countries following their EU accession in 2004 on local level redistribution in England, specifically disentangling these two channels. We apply a difference-in-differences estimation strategy and find that migrants did not have an effect on local authorities’ total service provision per capita. Once we zoom in on the different expenditure items, we find that local authorities experiencing relatively larger migration inflows saw their spending on means-tested social care services decrease in relative terms, while spending on education services increased. Analysing changes in local Council compositions and internal migration flows in response to the arrival of outsiders, we find no evidence that spending shifts are driven by a change in the local willingness to redistribute income. Rather, our results suggest that, due to migrants’ young age at the time of arrival, migration following the 2004 EU enlargement alleviated some of the pressure social care spending in England faces.
+abstract: Business investment has weakened across OECD economies in recent decades. Using firm-level data for 17 OECD countries over 2003–2022, this paper documents a marked decline in the responsiveness of tangible investment to firm productivity following the Global Financial Crisis, with only a partial recovery thereafter, pointing to a weakening of capital reallocation toward more productive firms. The decline is broad-based across countries and sectors, holds after accounting for intangible investment, and is confirmed under an instrumental-variables strategy. Both frontier and non-frontier firms experienced a reduction in responsiveness, though the decline is larger and more persistent among non-frontier firms, while frontier firms proved more resilient. Partial-equilibrium counterfactuals suggest that maintaining pre-crisis responsiveness would translate into substantially higher aggregate investment and measurable productivity gains. Policy and market conditions shape how strongly investment responds to productivity. Responsiveness is weaker in sectors where firms depend more on external finance and in countries with less efficient insolvency regimes, the latter most apparent at the frontier. More concentrated markets are associated with lower responsiveness, particularly among non-frontier firms, whereas greater trade openness is associated with stronger responsiveness across the productivity distribution.
 
 
 # Summary. An optional shortened abstract.
-summary: The inflow of migrants can impact public spending through its effect on local preferences for redistribution and through changes in demand for local services brought about by migrants’ distinct characteristics. In this paper, we analyse the effects of the migration wave from Central and Eastern European countries following their EU accession in 2004 on local level redistribution in England, specifically disentangling these two channels. We apply a difference-in-differences estimation strategy and find that migrants did not have an effect on local authorities’ total service provision per capita. Once we zoom in on the different expenditure items, we find that local authorities experiencing relatively larger migration inflows saw their spending on means-tested social care services decrease in relative terms, while spending on education services increased. Analysing changes in local Council compositions and internal migration flows in response to the arrival of outsiders, we find no evidence that spending shifts are driven by a change in the local willingness to redistribute income. Rather, our results suggest that, due to migrants’ young age at the time of arrival, migration following the 2004 EU enlargement alleviated some of the pressure social care spending in England faces.
+summary: Business investment has weakened across OECD economies in recent decades. Using firm-level data for 17 OECD countries over 2003–2022, this paper documents a marked decline in the responsiveness of tangible investment to firm productivity following the Global Financial Crisis, with only a partial recovery thereafter, pointing to a weakening of capital reallocation toward more productive firms. The decline is broad-based across countries and sectors, holds after accounting for intangible investment, and is confirmed under an instrumental-variables strategy. Both frontier and non-frontier firms experienced a reduction in responsiveness, though the decline is larger and more persistent among non-frontier firms, while frontier firms proved more resilient. Partial-equilibrium counterfactuals suggest that maintaining pre-crisis responsiveness would translate into substantially higher aggregate investment and measurable productivity gains. Policy and market conditions shape how strongly investment responds to productivity. Responsiveness is weaker in sectors where firms depend more on external finance and in countries with less efficient insolvency regimes, the latter most apparent at the frontier. More concentrated markets are associated with lower responsiveness, particularly among non-frontier firms, whereas greater trade openness is associated with stronger responsiveness across the productivity distribution.
 
 tags: 
 
 
 links: 
-- name: MPC Working Paper, 2021
-  url: https://cadmus.eui.eu/handle/1814/73099
+- name: OECD Working Paper
+  url: https://www.oecd.org/en/publications/declining-and-diverging-investment-responsiveness-to-firm-productivity_46f11484-en.html
 
   
 url_pdf: 
