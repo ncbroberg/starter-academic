@@ -30,7 +30,7 @@ tags:
 
 
 links: 
-- name: OECD Working Paper
+- name: OECD Productivity Working Papers, No. 40, OECD Publishing, Paris, https://doi.org/10.1787/46f11484-en.
   url: https://www.oecd.org/en/publications/declining-and-diverging-investment-responsiveness-to-firm-productivity_46f11484-en.html
 
   
