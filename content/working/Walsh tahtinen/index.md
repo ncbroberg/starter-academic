@@ -4,7 +4,7 @@ authors:
 - admin
 - Tuuli Tähtinen
 - Thomas Walsh
-- Revise & Resubmit at European Economic Review
+- Conditionally accepted at European Economic Review
 date: "2025-01-01T00:00:00Z"
 doi: 
 featured: false
