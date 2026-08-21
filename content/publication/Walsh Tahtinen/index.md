@@ -5,7 +5,7 @@ authors:
 - Tuuli Tähtinen
 - Thomas Walsh
 - Conditionally accepted at European Economic Review
-date: "2025-01-01T00:00:00Z"
+date: "2026-08-01T00:00:00Z"
 doi: 
 featured: false
 
